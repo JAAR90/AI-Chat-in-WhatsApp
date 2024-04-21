@@ -20,13 +20,7 @@ This is a Chatbot that integrates AI (ChatGPT) into WhatsApp and allows you to i
 - <b>AWS GateWay API</b>
 - <b>Open AI API</b>
 
-<h2>Program walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 <!--
  ```diff
